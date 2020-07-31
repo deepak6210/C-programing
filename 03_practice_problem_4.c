@@ -3,7 +3,7 @@
 int main()
 {
     int leap_year;
-    float leap1, leap2, leap3;
+    float leap1;
     printf("Enter the leap year\n");
     scanf("%d", &leap_year);
     leap1 = leap_year % 4;
