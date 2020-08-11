@@ -22,7 +22,7 @@ int main()
     printf("Enter the value of salary e2: ");
     scanf("%f", &e2.salary);    
     printf("Enter the value of name e2: ");
-    scanf("%s", e2.name): 
+    scanf("%s", e2.name);
     printf("Enter the value of code e3: ");
     scanf("%d", &e3.code);    
     printf("Enter the value of salary e3: ");
