@@ -47,7 +47,7 @@ int main()
 {   
     char you, comp;
     int number;
-    srand(time(0));
+    srand(time(0)); //random function
     number = rand() % 100 + 1;
     if (number<33)
     {
